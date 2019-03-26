@@ -567,7 +567,8 @@ h1 {
 
 .section__text {
   max-width: 1250px;
-  margin: 40px auto; }
+  margin: 40px auto;
+padding:  0 25px;}
 
 .about__list {
   text-align: center;
