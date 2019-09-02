@@ -572,7 +572,8 @@ padding:  0 25px;}
 
 .about__list {
   text-align: center;
-  margin: 0 auto; }
+  margin: 0 auto;
+  margin-bottom: 50px;}
 
 .about__block {
   text-align: left;
